@@ -20,11 +20,10 @@ This project leverages Deep Q-Network (DQN) learning to develop a trading strate
 ## Semantic Analysis
 **Author: Matthias Pleyer**
 
-The Semantic Analysis project involves analyzing financial texts to extract meaningful insights. This includes sentiment analysis, topic modeling, and other natural language processing (NLP) techniques to interpret and categorize financial news and reports.
+The Semantic Analysis project involves analyzing financial texts to extract meaningful insights. This includes sentiment analysis and other natural language processing (NLP) techniques to interpret and categorize financial news and reports.
 
 ### Features
 - Sentiment analysis of financial texts
-- Topic modeling
 - Text classification
 
 ## Google Trends
