@@ -24,7 +24,8 @@ The Semantic Analysis project involves analyzing financial texts to extract mean
 
 ### Features
 - Sentiment analysis of financial texts
-- Text classification
+- Assigning negative values to bad news and positive values to good news
+- Data scraping, evaluation, and testing of the analysis
 
 ## Google Trends
 **Author: Yannick Nwankwo**
