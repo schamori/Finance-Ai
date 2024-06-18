@@ -6,10 +6,6 @@ This repository contains three distinct machine learning projects focusing on fi
 1. [DQN Learning](#dqn-learning)
 2. [Semantic Analysis](#semantic-analysis)
 3. [Google Trends](#google-trends)
-4. [Getting Started](#getting-started)
-5. [Dependencies](#dependencies)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## DQN Learning
 **Author: Moritz**
